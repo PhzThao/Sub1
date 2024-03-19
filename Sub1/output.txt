@@ -1,0 +1,3 @@
+002, Tran Phan Minh Tien, Nam, 9.0, 10.0, 9.666666666666666, Dau
+003, Thai Phan Minh Hoang, Nam, 10.0, 9.0, 9.333333333333334, Dau
+001, Nguyen Phuong Thao, Nu, 8.0, 8.0, 8.0, Dau
